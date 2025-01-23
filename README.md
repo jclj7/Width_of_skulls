@@ -1,0 +1,1 @@
+Analyze whether there are differences in the length and width of Egyptian skulls as time passes. I think that most of us have an idea that Egyptian heads are more elongated and when we get to the Romans they are more rounded.
